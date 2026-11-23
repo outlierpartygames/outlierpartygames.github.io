@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "MT959D9M4U.com.outlierparty.outlier"
+        ],
+        "components": [
+          {
+            "/": "/join*",
+            "comment": "room invites"
+          }
+        ]
+      }
+    ]
+  }
+}
